@@ -1,0 +1,12 @@
+
+.hex-wrap{
+  display: flex; 
+  flex-direction: column;
+  span:first-child{
+    cursor: pointer;
+  }
+  span:last-child{
+    cursor: 'pointer'; 
+    font-size: 24px;
+  }
+}
